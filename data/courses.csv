@@ -1,0 +1,5 @@
+course_id,skill_id,course_name
+C01,SK01,Advanced Python
+C02,SK02,Pandas Mastery
+C03,SK03,SQL Database
+C06,SK06,Intro to ML
